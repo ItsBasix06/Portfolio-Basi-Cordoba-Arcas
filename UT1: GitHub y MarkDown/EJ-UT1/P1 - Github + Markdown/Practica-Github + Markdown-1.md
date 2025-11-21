@@ -26,69 +26,69 @@ Un **repositorio** es el espacio donde se aloja el proyecto, su historial de ver
 
  ### 2. Nombre,descripcion y estado.
 
- <img src="https://raw.githubusercontent.com/ItsBasix06/Porfolio-Basi-Cordoba-Arcas/refs/heads/main/UT1%3A%20GitHub%20y%20MarkDown/img/Nombre-descripcion-public.png" 
+ <img src="https://raw.githubusercontent.com/ItsBasix06/Portfolio-Basi-Cordoba-Arcas/refs/heads/main/UT1%3A%20GitHub%20y%20MarkDown/img/Nombre-descripcion-public.png" 
      alt="crear" 
      width="400" 
      style="border:2px solid black; border-radius:20px;">
      
   ### 3. Subir archivos.
-  <img src="https://raw.githubusercontent.com/ItsBasix06/Porfolio-Basi-Cordoba-Arcas/refs/heads/main/UT1%3A%20GitHub%20y%20MarkDown/img/subir-archivos.png" 
+  <img src="https://raw.githubusercontent.com/ItsBasix06/Portfolio-Basi-Cordoba-Arcas/refs/heads/main/UT1%3A%20GitHub%20y%20MarkDown/img/subir-archivos.png" 
      alt="crear" 
      width="400" 
      style="border:2px solid black; border-radius:20px;">
      
   ### 4. Subida de archivos.
-   <img src="https://raw.githubusercontent.com/ItsBasix06/Porfolio-Basi-Cordoba-Arcas/refs/heads/main/UT1%3A%20GitHub%20y%20MarkDown/img/proceder-subir-archivos.png" 
+   <img src="https://raw.githubusercontent.com/ItsBasix06/Portfolio-Basi-Cordoba-Arcas/refs/heads/main/UT1%3A%20GitHub%20y%20MarkDown/img/proceder-subir-archivos.png" 
      alt="crear" 
      width="400" 
      style="border:2px solid black; border-radius:20px;">
 
    ### 5. Creación del commit.
-   <img src="https://raw.githubusercontent.com/ItsBasix06/Porfolio-Basi-Cordoba-Arcas/refs/heads/main/UT1%3A%20GitHub%20y%20MarkDown/img/creacion-del-commit.png" 
+   <img src="https://raw.githubusercontent.com/ItsBasix06/Portfolio-Basi-Cordoba-Arcas/refs/heads/main/UT1%3A%20GitHub%20y%20MarkDown/img/creacion-del-commit.png" 
      alt="crear" 
      width="400" 
      style="border:2px solid black; border-radius:20px;">
      
   ### 6. Demostración del primer commit.
-  <img src="https://raw.githubusercontent.com/ItsBasix06/Porfolio-Basi-Cordoba-Arcas/refs/heads/main/UT1%3A%20GitHub%20y%20MarkDown/img/demostracion-primer-commit.png" 
+  <img src="https://raw.githubusercontent.com/ItsBasix06/Portfolio-Basi-Cordoba-Arcas/refs/heads/main/UT1%3A%20GitHub%20y%20MarkDown/img/demostracion-primer-commit.png" 
      alt="crear" 
      width="400" 
      style="border:2px solid black; border-radius:20px;">
      
   ### 7. Historial de todos los commits creados.
-  <img src="https://raw.githubusercontent.com/ItsBasix06/Porfolio-Basi-Cordoba-Arcas/refs/heads/main/UT1%3A%20GitHub%20y%20MarkDown/img/historial-commits.png" 
+  <img src="https://raw.githubusercontent.com/ItsBasix06/Portfolio-Basi-Cordoba-Arcas/refs/heads/main/UT1%3A%20GitHub%20y%20MarkDown/img/historial-commits.png" 
      alt="crear" 
      width="400" 
      style="border:2px solid black; border-radius:20px;">
 
    ### 8. Creacion de rama.
-   <img src="https://raw.githubusercontent.com/ItsBasix06/Porfolio-Basi-Cordoba-Arcas/refs/heads/main/UT1%3A%20GitHub%20y%20MarkDown/img/creacion-rama.png" 
+   <img src="https://raw.githubusercontent.com/ItsBasix06/Portfolio-Basi-Cordoba-Arcas/refs/heads/main/UT1%3A%20GitHub%20y%20MarkDown/img/creacion-rama.png" 
      alt="crear" 
      width="400" 
      style="border:2px solid black; border-radius:20px;">
      
   ### 10. Creacion de una segunda rama.
   
-  <img src="https://raw.githubusercontent.com/ItsBasix06/Porfolio-Basi-Cordoba-Arcas/refs/heads/main/UT1%3A%20GitHub%20y%20MarkDown/img/creackl.png" 
+  <img src="https://raw.githubusercontent.com/ItsBasix06/Portfolio-Basi-Cordoba-Arcas/refs/heads/main/UT1%3A%20GitHub%20y%20MarkDown/img/creackl.png" 
      alt="crear" 
      width="400" 
      style="border:2px solid black; border-radius:20px;">
      
   ### 11. Subida de archivos en la segunda rama.
   
-  <img src="https://raw.githubusercontent.com/ItsBasix06/Porfolio-Basi-Cordoba-Arcas/refs/heads/main/UT1%3A%20GitHub%20y%20MarkDown/img/2%20%20rama%20a%C3%B1adir%20.png" 
+  <img src="https://raw.githubusercontent.com/ItsBasix06/Portfolio-Basi-Cordoba-Arcas/refs/heads/main/UT1%3A%20GitHub%20y%20MarkDown/img/2%20%20rama%20a%C3%B1adir%20.png" 
      alt="crear" 
      width="400" 
      style="border:2px solid black; border-radius:20px;">
      
   ### 12. Vista de las 2 ramas una vez juntadas con pull request
   
-  <img src="https://raw.githubusercontent.com/ItsBasix06/Porfolio-Basi-Cordoba-Arcas/refs/heads/main/UT1%3A%20GitHub%20y%20MarkDown/img/demostracion-primer-commit.png" 
+  <img src="https://raw.githubusercontent.com/ItsBasix06/Portfolio-Basi-Cordoba-Arcas/refs/heads/main/UT1%3A%20GitHub%20y%20MarkDown/img/demostracion-primer-commit.png" 
      alt="crear" 
      width="400" 
      style="border:2px solid black; border-radius:20px;">
 
-   <img src="https://raw.githubusercontent.com/ItsBasix06/Porfolio-Basi-Cordoba-Arcas/refs/heads/main/UT1%3A%20GitHub%20y%20MarkDown/img/segunda-rama-info.png" 
+   <img src="https://raw.githubusercontent.com/ItsBasix06/Portfolio-Basi-Cordoba-Arcas/refs/heads/main/UT1%3A%20GitHub%20y%20MarkDown/img/segunda-rama-info.png" 
      alt="crear" 
      width="400" 
      style="border:2px solid black; border-radius:20px;">
