@@ -1,8 +1,8 @@
 # PORTFOLIO
 ### Basi Cordoba Arcas
 ## Unidad 1: Github y MarkDown
-- ### [Diario](https://github.com/ItsBasix06/Porfolio-Basi-Cordoba-Arcas/blob/main/UT1%3A%20GitHub%20y%20MarkDown/diario_UD1.md)
-- ### [Ejercicios](https://github.com/ItsBasix06/Porfolio-Basi-Cordoba-Arcas/blob/main/UT1%3A%20GitHub%20y%20MarkDown/enlaces_UD1.md)
+- ### [Diario](https://github.com/ItsBasix06/Portfolio-Basi-Cordoba-Arcas/blob/main/UT1%3A%20GitHub%20y%20MarkDown/diario_UD1.md)
+- ### [Ejercicios](https://github.com/ItsBasix06/Portfolio-Basi-Cordoba-Arcas/blob/main/UT1%3A%20GitHub%20y%20MarkDown/enlaces_UD1.md)
 
 
 ## Unidad 2: Introduccion a las aplicaciones Web
