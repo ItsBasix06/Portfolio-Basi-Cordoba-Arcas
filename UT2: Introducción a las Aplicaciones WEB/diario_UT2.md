@@ -2,30 +2,27 @@
 
 > ## Qué he aprendido
 
-En esta unidad he entendido por fin la diferencia entre un cliente y un servidor FTP. También me ha quedado claro cómo funcionan los modos activo y pasivo y para qué sirven los puertos 20 y 21.
+En esta unidad entendí la diferencia entre cliente y servidor FTP, y cómo funcionan los modos activo y pasivo con los puertos 20 y 21.  
 
-En cuanto a la instalación de Apache, he visto dos formas muy distintas de hacerlo. En Windows es un proceso más manual, ya que hay que instalar librerías Visual C++ y modificar el archivo `httpd.conf`. En cambio, en Ubuntu Server todo es mucho más sencillo: basta con usar un par de comandos desde la terminal para tener Apache funcionando.
+También aprendí a instalar Apache de dos formas: en Windows es más manual (con librerías Visual C++ y modificando `httpd.conf`), mientras que en Ubuntu Server es mucho más rápido usando la terminal.  
 
-Además, he aprendido conceptos básicos de seguridad, como configurar el firewall con UFW y entender cómo funcionan los permisos con `chmod` y `chown`.
+Además, aprendí nociones básicas de seguridad, como usar el firewall con UFW y manejar permisos con `chmod` y `chown`.
 
 > ## Qué no entiendo
 
-A pesar de los avances, todavía tengo dudas con los **Virtual Hosts**. Sé para qué sirven, pero me lío cuando intento configurar varios sitios web en una misma IP sin provocar conflictos.
+Todavía me lía un poco configurar **Virtual Hosts** para varios sitios en la misma IP sin errores.  
+Los **permisos numéricos** también me cuestan, no recuerdo bien cuándo usar `755` o `644`.
 
-Los **permisos numéricos** también me confunden un poco. Sé que `755` y `644` son los más comunes, pero aún no tengo claro cuándo usar cada uno exactamente.
+> ## Qué me ha gustado
 
-> ## Qué es lo que más me ha gustado
+Me gustó mucho ver `localhost` funcionando y comprobar que el servidor respondía.  
+También disfruto usar la terminal y comandos como `systemctl`, me hace sentir que controlo el servidor de forma más profesional.
 
-Lo que más me ha gustado ha sido la satisfacción de poner `localhost` en el navegador y ver que todo funciona. Ese momento en el que el servidor responde te hace sentir que todo el esfuerzo ha valido la pena.
+> ## Qué no me ha gustado
 
-Otra cosa que me ha encantado es trabajar desde la terminal. Usar comandos como `systemctl` me ha hecho sentir que controlo el sistema de una forma más profesional.
-
-> ## Lo que menos me ha gustado
-
-La instalación en Windows ha sido lo peor. Todo es más manual, más lento y más delicado, sobre todo comparado con la facilidad con la que se hace en Linux.
-
-También ha sido frustrante tener que resolver los típicos problemas de puertos ocupados, especialmente con el famoso puerto 80.
+La instalación en Windows fue lenta y más complicada que en Linux.  
+Resolver problemas de puertos ocupados, sobre todo el puerto 80, fue un poco frustrante.
 
 > ## Conclusión
 
-En general, esta unidad me ha demostrado que Linux es una opción mucho más eficiente para gestionar servidores. Apache me parecía algo complicado al principio, pero ahora veo que es una herramienta muy lógica una vez entiendes sus bases.
+Esta unidad me enseñó que Linux es más eficiente para gestionar servidores. Al principio Apache parecía complicado, pero ahora veo que todo tiene sentido y es bastante lógico cuando entiendes cómo funciona.
