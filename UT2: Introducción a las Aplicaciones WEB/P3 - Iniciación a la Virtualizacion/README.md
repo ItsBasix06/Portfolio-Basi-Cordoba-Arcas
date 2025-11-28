@@ -44,7 +44,7 @@ Es como si fuera una tienda o repositorio publico
 
  Para ejecutar los contenedores pondremos el comando que se ha puesto arriba ^^
 
- > ![descargar-contenedores-nginx](https://raw.githubusercontent.com/ItsBasix06/Portfolio-Basi-Cordoba-Arcas/refs/heads/main/UD1%3A%20GitHub%20y%20MarkDown/img/P3%20-%20Iniciaci%C3%B3n%20a%20la%20Virtualizaci%C3%B3n/Descargar-Contenedor-nginx.png)
+ > ![descargar-contenedores-nginx](https://raw.githubusercontent.com/ItsBasix06/Portfolio-Basi-Cordoba-Arcas/refs/heads/main/UT1%3A%20GitHub%20y%20MarkDown/img/P3%20-%20Iniciaci%C3%B3n%20a%20la%20Virtualizaci%C3%B3n/Descargar-Contenedor-nginx.png)
 
 
 > ![descargar-contenedores-tomcat](https://raw.githubusercontent.com/ItsBasix06/Portfolio-Basi-Cordoba-Arcas/refs/heads/main/UT1%3A%20GitHub%20y%20MarkDown/img/P3%20-%20Iniciaci%C3%B3n%20a%20la%20Virtualizaci%C3%B3n/Descargar-Contenedor-tomcat.png)
@@ -53,4 +53,4 @@ Es como si fuera una tienda o repositorio publico
 
 Comprobamos el funcionamiento de cada uno mediante localhost con sus puertos y tambien compruebo de que estan activos
 
- ![comprobacion-navegador](https://raw.githubusercontent.com/ItsBasix06/Porfolio-Basi-Cordoba-Arcas/refs/heads/main/UT1%3A%20GitHub%20y%20MarkDown/img/P3%20-%20Iniciaci%C3%B3n%20a%20la%20Virtualizaci%C3%B3n/comprobar-estado-y-funcionamiento-web.png)
+ ![comprobacion-navegador](https://raw.githubusercontent.com/ItsBasix06/Portfolio-Basi-Cordoba-Arcas/refs/heads/main/UT1%3A%20GitHub%20y%20MarkDown/img/P3%20-%20Iniciaci%C3%B3n%20a%20la%20Virtualizaci%C3%B3n/comprobar-estado-y-funcionamiento-web.png)
