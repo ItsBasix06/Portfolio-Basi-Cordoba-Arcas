@@ -60,8 +60,14 @@ Apache se utiliza principalmente para alojar sitios web en internet. Algunas de 
 
 > ### 1. Descargar Apache
 
-En la terminal actualizamos los paquetes a la ultima version con **sudo apt update** y luego procederemos a instalar el servidor Apache con **sudo apt install Apache2**:
-
+En la terminal actualizamos los paquetes a la ultima version con 
+```bash
+sudo apt update
+``` 
+ y luego procederemos a instalar el servidor Apache con 
+ ```bash
+ sudo apt install Apache2
+```
 ![descarga-apache](https://raw.githubusercontent.com/ItsBasix06/Portfolio-Basi-Cordoba-Arcas/refs/heads/main/UT2%3A%20Introducci%C3%B3n%20a%20las%20Aplicaciones%20WEB/img/DescargarApache.png)
 
 Ahora comprobamos en cualquier navegador sobre si funciona correctamente el servidor Apache2, yo usare el predeterminado de ubuntu **(Firefox)** y este es el resultado:
@@ -71,7 +77,11 @@ Ahora comprobamos en cualquier navegador sobre si funciona correctamente el serv
 
 > ### 2. Creacion de nuestro sitio web
 
-Ahora para poder crear nuestro primer sitio web de Apache hay que crear carpetas para crear el sitio, por ello con **mkdir** creamos en esta ruta los siguiente: **sudo mkdir /var/www/gci/** y luego nos movemos a la carpeta con **cd** y despues usamos **nano** para crear un nuevo fichero llamado **index.html**:
+Ahora para poder crear nuestro primer sitio web de Apache hay que crear carpetas para crear el sitio, por ello con **mkdir** creamos en esta ruta los siguiente: 
+```bash
+sudo mkdir /var/www/gci/
+``` 
+y luego nos movemos a la carpeta con **cd** y despues usamos **nano** para crear un nuevo fichero llamado **index.html**:
 
 ![movimiento](https://raw.githubusercontent.com/ItsBasix06/Portfolio-Basi-Cordoba-Arcas/refs/heads/main/UT2%3A%20Introducci%C3%B3n%20a%20las%20Aplicaciones%20WEB/img/Creacion-carpetas-movimiento-creacionfichero.png)
 
@@ -82,7 +92,11 @@ Ponemos un mensaje dentro en el titulo diciendo **Ubuntu ese lo mejor** y en un 
 > ### 3. Configuración del archivo de configuración en Virtualhost
 
 
-Ahora nos dirigimos a la siguiente ruta: **cd /etc/apache2/sites-available/**
+Ahora nos dirigimos a la siguiente ruta: 
+
+```bash
+cd /etc/apache2/sites-available/
+``` 
 y con cp **(copiar)** copiamos lo que vino instalado por defecto con apache que es un virtualhost y lo pegamos en un nuevo fichero llamado **gci.conf** y entramos con nano:
 
 ![configuracion-entrar](https://raw.githubusercontent.com/ItsBasix06/Portfolio-Basi-Cordoba-Arcas/refs/heads/main/UT2%3A%20Introducci%C3%B3n%20a%20las%20Aplicaciones%20WEB/img/movemosrutaapache-copiar-fichero.png)
@@ -93,7 +107,16 @@ y con cp **(copiar)** copiamos lo que vino instalado por defecto con apache que 
 
 > ### 4. Activacion del archivo VirtualHost
 
-Ahora tenemos que activar el archivo de configuracion de hosts virtuales para habilitarlo,por ello escribimos el siguiente comando **sudo a2ensite gci.conf** y nos pedira recargar el servicio apache2 con **systemctl reload apache2** y con status vemos que funciona sin problemas: 
+Ahora tenemos que activar el archivo de configuracion de hosts virtuales para habilitarlo,por ello escribimos el siguiente comando 
+
+```bash
+sudo a2ensite gci.conf
+```
+y nos pedira recargar el servicio apache2 con 
+```bash
+systemctl reload apache2
+```
+y con status vemos que funciona sin problemas: 
 
 ![comprobamos-habilitar](https://raw.githubusercontent.com/ItsBasix06/Portfolio-Basi-Cordoba-Arcas/refs/heads/main/UT2%3A%20Introducci%C3%B3n%20a%20las%20Aplicaciones%20WEB/img/habilitarHosts-reload-status.png)
 ### 5. Comprobacion en el navegador
@@ -124,4 +147,4 @@ Para mí, Apache es un servidor web muy útil y fácil de usar. Me gusta porque 
 
 He usado los siguientes enlaces para documentar la practica.
 
-> [Documentacion de Ubuntu](https://ubuntu.com/tutorials/install-and-configure-apache#1-overview)
+> 📕 [Documentacion de Ubuntu](https://ubuntu.com/tutorials/install-and-configure-apache#1-overview)
