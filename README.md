@@ -44,8 +44,8 @@
 ## 🐱 **Unidad 4: Tomcat**
 
 ### ✏️ Diario  
-📄 **[Ver Diario]()**
+📄 **[Ver Diario](https://github.com/ItsBasix06/Portfolio-Basi-Cordoba-Arcas/blob/main/UT4%3A%20Tomcat/diario_UT4.md)**
 
 
 ### 🧩 Ejercicios  
-🗂️ **[Ver Ejercicios]()**
+🗂️ **[Ver Ejercicios](https://github.com/ItsBasix06/Portfolio-Basi-Cordoba-Arcas/blob/main/UT4%3A%20Tomcat/enlaces_UT4.md)**
