@@ -19,3 +19,11 @@
 
 > ### 1. Descargar el WAR de internet
 
+Para poder descargarlo voy a abrir mi terminal y con `wget` descargare un war de internet, este es el war que he instalado:
+
+```bash
+wget https://tomcat.apache.org/tomcat-10.1-doc/appdev/sample/sample.war
+```
+
+![wget-war]()
+
