@@ -14,7 +14,7 @@
 
 **Autor:** Basi Córdoba Arcas
 
-**Fecha:** 23/01/2025
+**Fecha:** 23/01/2026
 
 
 > ### 1. Descargar el WAR de internet🌐📥
