@@ -26,7 +26,7 @@ sudo nano /etc/tomcat10/tomcat-users.xml
 
 Y ponemos las siguientes dos lineas antes de que cierre la etiqueta `</tomcat-users>`:
 ```bash
-<role name="manager-gui"/>
+<role rolename="manager-gui"/>
 <user username="admin" password="tu_password_seguro" roles="manager-gui"/>
 ```
 
