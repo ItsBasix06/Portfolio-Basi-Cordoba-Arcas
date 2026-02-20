@@ -49,3 +49,14 @@
 
 ### 🧩 Ejercicios  
 🗂️ **[Ver Ejercicios](https://github.com/ItsBasix06/Portfolio-Basi-Cordoba-Arcas/blob/main/UT4%3A%20Tomcat/enlaces_UT4.md)**
+
+---
+
+## 🗄️ **Unidad 5: FileZilla**
+
+### ✏️ Diario  
+📄 **[Ver Diario](https://github.com/ItsBasix06/Portfolio-Basi-Cordoba-Arcas/blob/main/UT5%3A%20Filezilla/diario_UT5.md)**
+
+
+### 🧩 Ejercicios  
+🗂️ **[Ver Ejercicios](https://github.com/ItsBasix06/Portfolio-Basi-Cordoba-Arcas/blob/main/UT5%3A%20Filezilla/enlaces_UT5.md)**
